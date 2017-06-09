@@ -1,0 +1,27 @@
+{
+  "name": "sequelizeburger",
+  "version": "1.0.0",
+  "description": "burger app using sequelize orm",
+  "main": "index.js",
+  "scripts": {
+    "test": "server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheKingdomDev/sequelizedBurger.git"
+  },
+  "author": "Eric King",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheKingdomDev/sequelizedBurger/issues"
+  },
+  "homepage": "https://github.com/TheKingdomDev/sequelizedBurger#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "express-handlebars": "^3.0.0",
+    "handlebars": "^4.0.10",
+    "mysql": "^2.13.0",
+    "sequelize": "^4.0.0"
+  }
+}
